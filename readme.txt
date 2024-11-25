@@ -16,17 +16,15 @@ Pilas.gr Access creates a secure, temporary URL for easy access to your WP admin
 
 **FEATURES**
 
-* Grant access to your site with a single click; a temporary URL will be created that you can share for admin-level access to your site and it will automatically expire 7 days from creation.
-* Extend access - need more time? No problem. Just click to extend access so that users don’t get locked out.
+* Grant access to your site with a single click; a temporary URL will be created that you can share for admin-level access to your site.
 * All done? Revoke access and the link becomes inaccessible.
-* Auto disable access - whether you forget to revoke access or lose track of the timing, there’s no need to worry. We will automatically disable the access URL at the expiration, within 7 days.
 
 == Installation ==
 
 1. Install using the WordPress built-in Plugin installer, or Extract the zip file and drop the contents in the wp-content/plugins/ directory of your WordPress installation.
 2. Activate the plugin through the ‘Plugins’ menu in WordPress.
-3. Go to the Temporary Login tab within the Users menu.
-4. Click "Grant Access", and you’re all set.
+3. Go to the Pilas.Gr Access tab within the Users menu.
+4. Click "Δημιουργία URL", and you’re all set.
 
 == Frequently Asked Questions ==
 
